@@ -1,6 +1,6 @@
 <p>
   <a href="https://www.linkedin.com/in/sinseok-bak-96a101205/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp<br>
-  <a href="newstone1993@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=newstone1993@naver.com"/></a>
+  <a href="mailto:newstone1993@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newstone1993@naver.com"/></a>
 </p>
 
 <h2> Tech Stack </h2>
